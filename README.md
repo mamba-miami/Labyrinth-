@@ -1,2 +1,1 @@
-# Labyrinth-
-Labyrinth 2
+
